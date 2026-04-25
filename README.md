@@ -30,8 +30,10 @@
 ![PyQt6](https://img.shields.io/badge/PyQt6-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white)
 ---
 
+---
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+---
 
 </div>
